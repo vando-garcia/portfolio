@@ -8,7 +8,7 @@
 }
 
 .contato-wrapper {
-    width: 60%;
+    width: 50%;
     height: 30rem;
     display: flex;
     box-shadow: 0 2rem 3rem rgba(0,0,0, 0.5);
@@ -16,7 +16,8 @@
 .contato-left {
     width: 35%;
     background: 
-    linear-gradient(rgb(228, 228, 214, 0.6), rgba(22,22,22, 0.9));     
+    linear-gradient(rgba(95, 90, 90, 0.6), rgba(22,22,22, 0.9)),
+     url(../imagens/proj2.jpg);
     background-size: cover;
 }
 
